@@ -1,0 +1,23 @@
+
+.section {
+    background-color: #F5F6F8 !important;
+    height: 100vh;
+}
+
+.sectionDark {
+    background-color: #191B22;
+    height: 100vh;
+}
+
+.h1Section {
+    text-align: center;
+    padding-top: 104px;
+    font-size: 55px;
+    line-height: 1.2;
+
+}
+
+.pSection {
+    text-align: center;
+    font-size: 23px;
+}

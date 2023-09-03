@@ -1,0 +1,24 @@
+
+
+.MuiButton-contained{
+    border-radius: 30px !important;
+    background-color: rgb(10,126,163) !important;
+    text-transform: none !important;
+    font-size: 15px !important;
+    box-shadow: none !important;
+}
+
+/*.MuiButton-outlined {
+    border-radius: 30px !important; 
+    text-transform: none !important;
+    font-size: 15px !important;
+    color: black !important;
+} */
+
+.buttonHeader {
+    justify-content: center;
+}
+
+.btnDark{
+    color: white !important;
+}

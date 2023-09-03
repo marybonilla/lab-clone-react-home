@@ -1,0 +1,31 @@
+
+
+.header{
+    display: grid;
+    justify-content: center;
+}
+
+.reactImage {
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 180px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+
+}
+
+.h1Header {
+    line-height: 0;
+    font-size: 60px;
+    text-align: center;
+}
+
+.h4Header{
+    line-height: 0;
+    font-size: 35px;
+    font-weight: 400;
+}
+
